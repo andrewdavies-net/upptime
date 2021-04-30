@@ -1,8 +1,8 @@
 [
   {
     "name": "sdc",
-    "url": "https://healthcheck.sdc.andrewdavies.net",
-    "icon": "https://favicons.githubusercontent.com/healthcheck.sdc.andrewdavies.net",
+    "url": "$SDC",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sdc",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 320,
+    "timeDay": 320,
+    "timeWeek": 320,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
     "name": "nh",
-    "url": "https://healthcheck.nh.andrewdavies.net",
-    "icon": "https://favicons.githubusercontent.com/healthcheck.nh.andrewdavies.net",
+    "url": "$NH",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nh",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "time": 503,
+    "timeDay": 503,
+    "timeWeek": 503,
+    "timeMonth": 503,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   }
 ]
