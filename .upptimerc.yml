@@ -19,7 +19,7 @@ sites:
     url: $PLEX
   - name: plexd
     url: $PLEXD
-  __dangerous__insecure: true
+    __dangerous__insecure: true
   - name: requests
     url: $REQUESTS
 
