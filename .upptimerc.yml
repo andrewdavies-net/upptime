@@ -9,6 +9,18 @@ sites:
     url: $NH
   - name: sso
     url: $SSO
+  - name: jellyfin
+    url: $JELLYFIN
+  - name: nhcam
+    url: $NHIPCAM
+  - name: pass
+    url: $PASS
+  - name: plex
+    url: $plex
+  - name: plexd
+    url: $PLEXD
+  - name: requests
+    url: $REQUESTS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
