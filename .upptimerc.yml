@@ -16,7 +16,7 @@ sites:
   - name: pass
     url: $PASS
   - name: plex
-    url: $plex
+    url: $PLEX
   - name: plexd
     url: $PLEXD
   - name: requests
