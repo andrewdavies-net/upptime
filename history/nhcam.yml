@@ -1,7 +1,7 @@
 url: $NHIPCAM
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2021-05-09T10:59:57.394Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-05-09T11:51:01.687Z
 startTime: Fri Apr 30 2021 21:48:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
