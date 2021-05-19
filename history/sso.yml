@@ -1,7 +1,7 @@
 url: $SSO
-status: up
-code: 200
-responseTime: 501
-lastUpdated: 2021-05-18T23:12:45.149Z
+status: down
+code: 503
+responseTime: 326
+lastUpdated: 2021-05-19T07:29:23.419Z
 startTime: Fri Apr 30 2021 18:53:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
