@@ -150,12 +150,12 @@
     "url": "$NHIPCAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nhcam",
-    "status": "up",
-    "uptime": "96.21%",
-    "uptimeDay": "46.91%",
-    "uptimeWeek": "60.31%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "96.21%",
+    "status": "down",
+    "uptime": "96.24%",
+    "uptimeDay": "47.02%",
+    "uptimeWeek": "60.64%",
+    "uptimeMonth": "90.94%",
+    "uptimeYear": "96.24%",
     "time": 744,
     "timeDay": 728,
     "timeWeek": 728,
@@ -168,7 +168,7 @@
       "2021-07-10": 652,
       "2021-07-09": 756,
       "2021-07-08": 734,
-      "2021-07-07": 208
+      "2021-07-07": 175
     }
   },
   {
@@ -243,7 +243,7 @@
     "slug": "plexd",
     "status": "up",
     "uptime": "96.80%",
-    "uptimeDay": "63.21%",
+    "uptimeDay": "63.80%",
     "uptimeWeek": "66.54%",
     "uptimeMonth": "92.30%",
     "uptimeYear": "96.80%",
