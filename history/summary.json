@@ -152,7 +152,7 @@
     "slug": "nhcam",
     "status": "up",
     "uptime": "96.93%",
-    "uptimeDay": "61.15%",
+    "uptimeDay": "61.96%",
     "uptimeWeek": "63.78%",
     "uptimeMonth": "91.67%",
     "uptimeYear": "96.93%",
@@ -241,15 +241,15 @@
     "url": "$PLEXD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plexd",
-    "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "61.32%",
-    "uptimeWeek": "60.54%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "96.66%",
+    "status": "down",
+    "uptime": "96.81%",
+    "uptimeDay": "61.34%",
+    "uptimeWeek": "62.34%",
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "96.81%",
     "time": 385,
     "timeDay": 356,
-    "timeWeek": 379,
+    "timeWeek": 378,
     "timeMonth": 374,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -259,7 +259,7 @@
       "2021-07-19": 513,
       "2021-07-18": 719,
       "2021-07-17": 654,
-      "2021-07-16": 660
+      "2021-07-16": 478
     }
   },
   {
