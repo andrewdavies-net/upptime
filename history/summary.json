@@ -153,8 +153,8 @@
     "status": "down",
     "uptime": "96.82%",
     "uptimeDay": "63.31%",
-    "uptimeWeek": "61.03%",
-    "uptimeMonth": "91.03%",
+    "uptimeWeek": "60.98%",
+    "uptimeMonth": "91.02%",
     "uptimeYear": "96.82%",
     "time": 742,
     "timeDay": 679,
@@ -162,7 +162,7 @@
     "timeMonth": 772,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2021-07-25": 343,
+      "2021-07-25": 348,
       "2021-07-24": 611,
       "2021-07-23": 730,
       "2021-07-22": 583,
@@ -241,15 +241,15 @@
     "url": "$PLEXD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plexd",
-    "status": "up",
-    "uptime": "97.17%",
-    "uptimeDay": "60.57%",
-    "uptimeWeek": "65.30%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "97.17%",
+    "status": "down",
+    "uptime": "97.19%",
+    "uptimeDay": "60.89%",
+    "uptimeWeek": "65.51%",
+    "uptimeMonth": "92.06%",
+    "uptimeYear": "97.19%",
     "time": 384,
-    "timeDay": 382,
-    "timeWeek": 378,
+    "timeDay": 380,
+    "timeWeek": 377,
     "timeMonth": 376,
     "timeYear": 384,
     "dailyMinutesDown": {
@@ -258,7 +258,7 @@
       "2021-07-23": 649,
       "2021-07-22": 566,
       "2021-07-21": 530,
-      "2021-07-20": 527
+      "2021-07-20": 505
     }
   },
   {
