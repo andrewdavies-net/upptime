@@ -245,12 +245,12 @@
     "url": "$PLEXD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plexd",
-    "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "46.98%",
-    "uptimeWeek": "64.35%",
-    "uptimeMonth": "91.80%",
-    "uptimeYear": "97.50%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "47.05%",
+    "uptimeWeek": "64.92%",
+    "uptimeMonth": "91.93%",
+    "uptimeYear": "97.54%",
     "time": 383,
     "timeDay": 378,
     "timeWeek": 378,
@@ -262,7 +262,7 @@
       "2021-08-06": 576,
       "2021-08-05": 619,
       "2021-08-04": 681,
-      "2021-08-03": 437
+      "2021-08-03": 379
     }
   },
   {
