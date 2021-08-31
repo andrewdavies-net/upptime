@@ -93,8 +93,8 @@
     "slug": "sso",
     "status": "up",
     "uptime": "87.05%",
-    "uptimeDay": "45.98%",
-    "uptimeWeek": "6.57%",
+    "uptimeDay": "46.47%",
+    "uptimeWeek": "6.64%",
     "uptimeMonth": "63.87%",
     "uptimeYear": "87.05%",
     "time": 374,
@@ -167,15 +167,15 @@
     "url": "$NHIPCAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nhcam",
-    "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "48.94%",
-    "uptimeWeek": "65.48%",
-    "uptimeMonth": "92.06%",
-    "uptimeYear": "98.03%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "49.42%",
+    "uptimeWeek": "65.64%",
+    "uptimeMonth": "92.09%",
+    "uptimeYear": "98.04%",
     "time": 752,
     "timeDay": 671,
-    "timeWeek": 728,
+    "timeWeek": 729,
     "timeMonth": 775,
     "timeYear": 752,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
       "2021-08-28": 482,
       "2021-08-27": 575,
       "2021-08-26": 517,
-      "2021-08-25": 375
+      "2021-08-25": 359
     }
   },
   {
