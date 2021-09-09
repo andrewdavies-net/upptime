@@ -174,15 +174,15 @@
     "url": "$NHIPCAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nhcam",
-    "status": "up",
-    "uptime": "97.18%",
-    "uptimeDay": "52.81%",
-    "uptimeWeek": "50.29%",
-    "uptimeMonth": "87.83%",
-    "uptimeYear": "97.18%",
+    "status": "down",
+    "uptime": "97.28%",
+    "uptimeDay": "52.82%",
+    "uptimeWeek": "50.39%",
+    "uptimeMonth": "88.25%",
+    "uptimeYear": "97.28%",
     "time": 748,
-    "timeDay": 847,
-    "timeWeek": 706,
+    "timeDay": 853,
+    "timeWeek": 705,
     "timeMonth": 777,
     "timeYear": 748,
     "dailyMinutesDown": {
@@ -193,8 +193,7 @@
       "2021-09-05": 985,
       "2021-09-04": 1024,
       "2021-09-03": 608,
-      "2021-09-02": 640,
-      "2021-09-01": 24
+      "2021-09-02": 483
     }
   },
   {
@@ -269,14 +268,14 @@
     "url": "$PLEXD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plexd",
-    "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "66.68%",
-    "uptimeWeek": "58.48%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "97.79%",
+    "status": "down",
+    "uptime": "97.81%",
+    "uptimeDay": "68.04%",
+    "uptimeWeek": "58.82%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "97.81%",
     "time": 386,
-    "timeDay": 375,
+    "timeDay": 374,
     "timeWeek": 403,
     "timeMonth": 391,
     "timeYear": 386,
@@ -288,7 +287,7 @@
       "2021-09-05": 284,
       "2021-09-04": 417,
       "2021-09-03": 629,
-      "2021-09-02": 405
+      "2021-09-02": 370
     }
   },
   {
