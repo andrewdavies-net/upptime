@@ -1,7 +1,7 @@
 url: $PASS
-status: down
-code: 503
-responseTime: 317
-lastUpdated: 2021-11-25T23:10:27.365Z
+status: up
+code: 200
+responseTime: 981
+lastUpdated: 2021-11-26T02:01:51.346Z
 startTime: Fri Apr 30 2021 19:19:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
