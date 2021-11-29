@@ -320,15 +320,15 @@
     "url": "$NHIPCAM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nhcam",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "63.65%",
-    "uptimeWeek": "63.14%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "98.78%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "63.64%",
+    "uptimeWeek": "63.33%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "98.79%",
     "time": 736,
-    "timeDay": 631,
-    "timeWeek": 617,
+    "timeDay": 624,
+    "timeWeek": 616,
     "timeMonth": 694,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -338,7 +338,7 @@
       "2021-11-26": 556,
       "2021-11-25": 591,
       "2021-11-24": 694,
-      "2021-11-23": 513
+      "2021-11-23": 494
     }
   },
   {
