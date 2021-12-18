@@ -1,7 +1,7 @@
 url: $PLEXD
-status: down
-code: 401
-responseTime: 327
-lastUpdated: 2021-12-18T13:09:27.995Z
+status: up
+code: 200
+responseTime: 379
+lastUpdated: 2021-12-18T13:49:19.872Z
 startTime: Fri Apr 30 2021 21:48:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
